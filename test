@@ -1,5 +1,5 @@
 <dependencies>
-    <!-- AWS Lambda Core Dependency -->
+    <!-- devops core -->
     <dependency>
         <groupId>com.amazonaws</groupId>
         <artifactId>aws-lambda-java-core</artifactId>
